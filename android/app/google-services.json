@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647639408252",
+    "project_id": "fciapp-f6d4f",
+    "storage_bucket": "fciapp-f6d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647639408252:android:5a287c2ff57f5dc3a473f9",
+        "android_client_info": {
+          "package_name": "com.example.fcitalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647639408252-nbvvni1c4rsrb0i1an3f2fat9nj7gp96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcitalent",
+            "certificate_hash": "35681866d33cc75f8d9361659032191bc8153612"
+          }
+        },
+        {
+          "client_id": "647639408252-t7j2telf2tr1v5fhj67chjss75tvg4dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMGVf0OVkiMhslaqu9eH26-QJq6s05Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647639408252-t7j2telf2tr1v5fhj67chjss75tvg4dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
